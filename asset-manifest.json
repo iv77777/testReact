@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/testReact/static/css/main.6b7a63ee.css",
-    "main.js": "/testReact/static/js/main.c771dc75.js",
+    "main.js": "/testReact/static/js/main.50d17f91.js",
     "static/media/empty-cart.png": "/testReact/static/media/empty-cart.db905d1f4b063162f25b.png",
     "static/media/pizza-logo.svg": "/testReact/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
     "index.html": "/testReact/index.html",
     "main.6b7a63ee.css.map": "/testReact/static/css/main.6b7a63ee.css.map",
-    "main.c771dc75.js.map": "/testReact/static/js/main.c771dc75.js.map"
+    "main.50d17f91.js.map": "/testReact/static/js/main.50d17f91.js.map"
   },
   "entrypoints": [
     "static/css/main.6b7a63ee.css",
-    "static/js/main.c771dc75.js"
+    "static/js/main.50d17f91.js"
   ]
 }
